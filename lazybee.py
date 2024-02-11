@@ -22,7 +22,7 @@ print (red+b+"""
 
 print (gren+b+"            <===[[ coded by Akash ]]===>"+b+gren)
 print (" ")
-print (yellow+b+"     <---( search on youtube noob hackers)--->"+b+yellow)
+print (yellow+b+"     <---(Owner https://t.me/Alllllllllllllllllllllll )--->"+b+yellow)
 print (" ")
 
 length=int(raw_input(cyan+b+"Enter the number of characters: "+b+cyan))
