@@ -32,7 +32,7 @@ Lazybee tool is a python based script from which you can generate random wordlis
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/Akash8t2/Word-list`
+* `git clone https://github.com/Akash8t2/Word-list-`
 * `cd $HOME`
 * `ls`
 * `cd lazybee`
